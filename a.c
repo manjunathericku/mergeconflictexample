@@ -1,1 +1,1 @@
-sample file in main
+resolved from conflicts
